@@ -103,8 +103,6 @@ keyring @ file:///C:/ci/keyring_1614616910860/work
 kiwisolver @ file:///C:/ci/kiwisolver_1612282606037/work
 lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529307648/work
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
-llvmlite==0.36.0Note: you may need to restart the kernel to use updated packages.
-
 locket==0.2.1
 lxml @ file:///C:/ci/lxml_1616443455957/work
 MarkupSafe==1.1.1
